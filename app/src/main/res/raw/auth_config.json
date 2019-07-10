@@ -1,0 +1,7 @@
+{
+  "client_id": "viewUser",
+  "redirect_uri": "com.dhoomilbsheta.authtest:/oauth2redirect",
+  "authorization_scope": "openid email profile",
+  "discovery_uri": "http://10.0.2.2:8180/auth/realms/SmartBoss/.well-known/openid-configuration",
+  "https_required": false
+}
